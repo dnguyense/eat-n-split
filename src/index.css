@@ -131,9 +131,10 @@ label {
   font-weight: 500;
 }
 
-label::first-letter {
+label {
   display: inline-block;
   margin-right: 4px;
+  margin-left: 4px;
   font-size: 1.8rem;
 }
 
